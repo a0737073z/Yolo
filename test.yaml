@@ -1,0 +1,6 @@
+train: C:\\Users\\user\\Desktop\\project\\Metal_dataset_yolo\\train\\images
+val: C:\\Users\user\\Desktop\\project\\Metal_dataset_yolo\val\\images
+
+
+nc: 2  
+names: ['scratches','break']
